@@ -1,8 +1,8 @@
-# Happitu Assessment
+# React Assessment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using Typescript. The application fetches data from a json dataset and builds a responsive table, with collapsible rows.
 
-To access the deployed application, click [here](https://happitu-challenge.netlify.app/).
+To access the deployed application, click [here](https://parser-table.netlify.app/).
 
 To install the dependencies, run:
 
